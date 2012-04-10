@@ -90,6 +90,7 @@
    able: can
    able: expert
    abo: native
+   abs: brakes
    ac: account
    ac: accountant
    ac: aircraftsman
@@ -165,6 +166,7 @@
    ai: high class
    ai: main road
    ai: sloth
+   aia: actuary
    ail: trouble
    ain: own (Scottish)
    air: appearance
@@ -246,6 +248,7 @@
    ape: primate
    aq: water
    ar: arab
+   ar: army regulation
    ar: arrive
    ar: arrival
    ar: year of reign
@@ -418,6 +421,7 @@
    boa: snake
    board: directors
    bob: old shilling
+   bot: fly larva
    bp: bishop
    br: Britain
    br: British
@@ -446,6 +450,7 @@
    bro: brother
    bs: bees
    bst: summer time
+   bst: summer
    bull: American policeman
    bull: gold
    bus: transport
@@ -471,6 +476,7 @@
    c: century
    c: chapter
    c: circa
+   c: cloudy
    c: club
    c: cold
    c: college
@@ -839,6 +845,7 @@
    ebor: archbishop
    ec: London district
    ec: city
+   ec: Ecuador
    eccles: Cakesville
    ed: Edward
    ed: editor
@@ -889,10 +896,12 @@
    en: small measure
    eng: England
    eng: English
+   eng: modern journalism
    ent: otorhinolaryngology
    entry: record
    eon: age
    eon: time
+   ep: epistle
    ep: record
    er: Cockney girl
    er: QE
@@ -998,6 +1007,7 @@
    ff: very loud
    ff: very strong
    ff: very strong
+   fia: actuary
    fig: small illustration
    fir: tree
    firm: business
@@ -1176,12 +1186,14 @@
    head: point
    hearth: hard ground
    hebe: goddess
+   hebe: cup holder
    hehe: laugh
    hen: female
    hen: layer
    her: female
    her: the woman's
    her: woman
+   herb: simple
    hf: half
    hg: Dad's army
    hg: mercury
@@ -1749,6 +1761,7 @@
    n: midday
    n: name
    n: national
+   n: nationalist
    n: neper
    n: neuter
    n: neutral
@@ -1980,6 +1993,7 @@
    on: drinking
    one: lunchtime
    one: undivided
+   oo: castle
    oo: duck's eggs
    oo: ohs
    oo: owes
@@ -1998,6 +2012,8 @@
    or: gold
    or: yellow
    or: non-commissioned officers (other ranks)
+   or: men
+   or: soldiers
    oral: examination
    oral: test
    ord: no way
@@ -2008,6 +2024,7 @@
    ort: fragment
    os: Ordinary Seaman
    os: big
+   os: bone
    os: large letters
    os: ohs
    os: old style
@@ -2110,9 +2127,11 @@
    pi: Greek letter
    pi: confusion *
    pi: good
+   pi: relationship
    pi: religious
    pi: upright
    pier: mole
+   pin: number
    pit: Hell
    pitt: old Prime Minister
    pl: Poland
@@ -2158,6 +2177,7 @@
    pr: pair
    pr: president
    pr: price
+   pr: priest
    pr: prince
    pr: public relations
    pr: two
@@ -2218,6 +2238,7 @@
    quad: prison
    que: what (French)
    qui: who (French)
+   r: rabbi
    r: Reaumur
    r: Regina
    r: Republican
@@ -2323,9 +2344,11 @@
    red: leftist
    red: revolutionary
    red: socialist
+   red: former squadron
    regan: princess
    regan: wicked sister
    reine: French queen
+   rel: relative
    reme: engineers
    rene: French man
    rep: agent
@@ -2352,6 +2375,7 @@
    rio: port
    rip: final message
    rip: last word
+   rip: corn
    river: banker
    river: flower
    river: runner
@@ -2385,6 +2409,7 @@
    rom: gypsy
    rom: memory
    rom: Romans
+   rom: traveller
    rope: twenty feet
    rose: flower
    rosinante: poor horse
@@ -2453,6 +2478,7 @@
    s: snow
    s: society
    s: son
+   s: sons
    s: soprano
    s: southern
    s: south
@@ -2509,6 +2535,7 @@
    sent: ecstatic
    set: group
    set: put
+   set: ready
    seth: fourth man
    sgt: non-commissioned officer
    sgt: sergeant
@@ -2735,6 +2762,7 @@
    tnt: big banger
    tnt: explosive
    to: tax officer
+   to: will
    tod: fox
    todo: commotion
    toe: extremity
@@ -2910,6 +2938,7 @@
    vb: verb
    ve: victory
    ven: ecclesiastical title (venerable)
+   ven: archdeacon
    ver: rev up
    very: light
    vet: surgeon
@@ -2946,6 +2975,7 @@
    w: tungsten
    w: watt
    w: weak
+   w: week
    w: west
    w: western
    w: whole numbers
